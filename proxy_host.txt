@@ -37,3 +37,4 @@ cloudflare.com
 hcaptcha.com
 cdn.bootcdn.net
 hostloc.com
+jsdelivr.net

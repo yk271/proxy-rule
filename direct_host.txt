@@ -7,6 +7,10 @@ windows.com
 windowsupdate.com
 dyndns.com
 
+# Apple
+apple.com.cn
+icloud.com.cn
+
 # Steam
 steamcontent.com
 dl.steam.clngaa.com

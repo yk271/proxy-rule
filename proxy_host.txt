@@ -9,8 +9,8 @@ edge.microsoft.com
 microsoftedgewelcome.microsoft.com
 microsoftedge.microsoft.com
 target.microsoft.com
-edge.activity.windows.com
-msedge.api.cdp.microsoft.com
+activity.windows.com
+cdp.microsoft.com
 
 # Google
 googleapis.cn

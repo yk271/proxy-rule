@@ -1,9 +1,9 @@
 # Microsoft
 bing.com
 arc.msn.com
+data.msn.com
 aria.microsoft.com
 data.microsoft.com
-data.msn.com
 go.microsoft.com
 edge.microsoft.com
 microsoftedgewelcome.microsoft.com
@@ -44,6 +44,5 @@ sspanel.net
 v2ex.com
 cloudflare.com
 hcaptcha.com
-cdn.bootcdn.net
 hostloc.com
 jsdelivr.net

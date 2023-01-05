@@ -26,6 +26,9 @@ xn--ngstr-lra8j.com
 developer.apple.com
 testflight.apple.com
 sandbox.itunes.apple.com
+news-client.apple.com
+news-events.apple.com
+news-edge.apple.com
 gateway.icloud.com
 
 # Github

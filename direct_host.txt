@@ -75,6 +75,11 @@ tbcache.com
 etao.com
 
 # Bytedance
+bytedance.com
+bytetos.com
+byteimg.com
+bytecdn.cn
+bytescm.com
 amemv.com
 pstatp.com
 snssdk.com
@@ -85,6 +90,7 @@ zijiecdn.net
 zjbyte.cn
 zjcdn.com
 ecombdapi.com
+ecombdstatic.com
 douyin.com
 douyincdn.com
 douyinliving.com
@@ -115,8 +121,7 @@ feishucdn.com
 huoshan.com
 huoshanstatic.com
 huoshanzhibo.com
-bytecdn.cn
-bytescm.com
+ctobsnssdk.com
 
 # Xiaomi
 mi.com
@@ -131,6 +136,7 @@ xiaomiyoupin.com
 
 # China other
 jd.com
+360buyimg.com
 sinaimg.cn
 suning.com
 douyucdn.cn

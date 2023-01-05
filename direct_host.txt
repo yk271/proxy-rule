@@ -167,6 +167,12 @@ cybersource.com
 
 # Finance
 cmbchina.com
+cmschina.com
+pingan.cn
+pingan.com
+pingan.com.cn
+citics.com
+ecitic.com
 hsbc.com.cn
 wise.com
 

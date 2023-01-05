@@ -26,6 +26,7 @@ xn--ngstr-lra8j.com
 developer.apple.com
 testflight.apple.com
 sandbox.itunes.apple.com
+gateway.icloud.com
 
 # Github
 github-production-release-asset-2e65be.s3.amazonaws.com

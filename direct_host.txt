@@ -12,6 +12,7 @@ apple.com.cn
 icloud.com.cn
 
 # Steam
+cm.steampowered.com
 steamcontent.com
 steamchina.com
 xz.pphimalayanrt.com

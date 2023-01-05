@@ -136,12 +136,15 @@ xiaomi.net
 xiaomiyoupin.com
 
 # China other
+163.com
 jd.com
 360buyimg.com
 sinaimg.cn
 suning.com
 douyucdn.cn
 douyucdn2.cn
+moutai519.com.cn
+fengkongcloud.cn
 
 # Nike / Adidas
 nike.cn

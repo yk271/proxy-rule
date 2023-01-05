@@ -61,7 +61,8 @@ alibaba-inc.com
 aliapp.com
 alicdn.com
 antfortune.com
-cn-beijing.data.alicloudccp.com
+alicloudccp.com
+aliyundrive.com
 fliggy.com
 taopiaopiao.com
 1688.com
@@ -112,11 +113,21 @@ feishucdn.com
 huoshan.com
 huoshanstatic.com
 huoshanzhibo.com
+bytecdn.cn
+bytescm.com
 
-# China other
+# Xiaomi
 mi.com
+mi-img.com
+mifile.cn
+miui.com
+miwifi.com
 xiaomi.cn
 xiaomi.com
+xiaomi.net
+xiaomiyoupin.com
+
+# China other
 jd.com
 sinaimg.cn
 suning.com

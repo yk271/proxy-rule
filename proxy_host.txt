@@ -21,6 +21,7 @@ google.com.sg
 gstatic.com
 dns.google
 xn--ngstr-lra8j.com
+cupronickel.goog
 
 # Apple
 developer.apple.com

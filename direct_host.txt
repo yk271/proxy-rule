@@ -130,6 +130,7 @@ mifile.cn
 miui.com
 miwifi.com
 mioffice.cn
+miot-spec.org
 xiaomi.cn
 xiaomi.com
 xiaomi.net

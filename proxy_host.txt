@@ -24,6 +24,7 @@ xn--ngstr-lra8j.com
 cupronickel.goog
 
 # Apple
+captive.apple.com
 developer.apple.com
 testflight.apple.com
 sandbox.itunes.apple.com

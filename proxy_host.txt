@@ -11,6 +11,7 @@ microsoftedge.microsoft.com
 target.microsoft.com
 activity.windows.com
 cdp.microsoft.com
+licensing.mp.microsoft.com
 
 # Google
 googleapis.cn

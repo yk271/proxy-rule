@@ -49,3 +49,4 @@ cloudflare.com
 hcaptcha.com
 hostloc.com
 jsdelivr.net
+c.mi.com

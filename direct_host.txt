@@ -2,7 +2,6 @@
 apple.com
 microsoft.com
 office.com
-live.com
 windows.com
 windowsupdate.com
 dyndns.com

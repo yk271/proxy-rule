@@ -46,6 +46,7 @@ wechatos.net
 wechatify.net
 wechatapp.com
 weixinbridge.com
+webank.com
 
 # Alibaba
 tb.cn

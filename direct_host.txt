@@ -74,6 +74,7 @@ koubei.com
 tbcache.com
 etao.com
 damai.cn
+tmall.hk
 
 # Bytedance
 bytedance.com
@@ -123,6 +124,9 @@ huoshan.com
 huoshanstatic.com
 huoshanzhibo.com
 ctobsnssdk.com
+juliangyinqing.com
+oceanengine.com
+volcengine.com
 
 # Xiaomi
 mi.com
@@ -140,6 +144,7 @@ xiaomiyoupin.com
 # China other
 163.com
 jd.com
+jd.hk
 360buyimg.com
 sinaimg.cn
 suning.com
@@ -147,6 +152,11 @@ douyucdn.cn
 douyucdn2.cn
 moutai519.com.cn
 fengkongcloud.cn
+dewu.com
+xiaohongshu.com
+pinduoduo.com
+yangkeduo.com
+coolapk.com
 
 # Nike / Adidas
 nike.cn

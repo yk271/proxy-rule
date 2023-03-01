@@ -1,7 +1,6 @@
 # Default
 apple.com
 microsoft.com
-office.com
 dyndns.com
 
 # Apple

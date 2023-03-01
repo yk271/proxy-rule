@@ -73,6 +73,7 @@ ele.me
 koubei.com
 tbcache.com
 etao.com
+damai.cn
 
 # Bytedance
 bytedance.com

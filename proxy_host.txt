@@ -13,6 +13,7 @@ activity.windows.com
 cdp.microsoft.com
 licensing.mp.microsoft.com
 answers.microsoft.com
+support.microsoft.com
 
 # Google
 googleapis.cn

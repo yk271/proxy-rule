@@ -15,6 +15,7 @@ licensing.mp.microsoft.com
 answers.microsoft.com
 support.microsoft.com
 teams.microsoft.com
+myaccount.microsoft.com
 
 # Google
 googleapis.cn

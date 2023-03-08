@@ -53,3 +53,4 @@ hcaptcha.com
 hostloc.com
 jsdelivr.net
 c.mi.com
+flyert.com

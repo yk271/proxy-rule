@@ -1,9 +1,6 @@
-# Default
-apple.com
-microsoft.com
-dyndns.com
-
 # Apple
+apple.cn
+apple.com
 apple.com.cn
 icloud.com.cn
 
@@ -72,6 +69,10 @@ tbcache.com
 etao.com
 damai.cn
 tmall.hk
+kaola.com
+miaostreet.com
+hemamax.com
+hemashare.cn
 
 # Bytedance
 bytedance.com
@@ -190,3 +191,5 @@ wise.com
 
 # Other
 speedtest.net
+microsoft.com
+dyndns.com

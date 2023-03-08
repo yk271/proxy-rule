@@ -155,6 +155,8 @@ xiaohongshu.com
 pinduoduo.com
 yangkeduo.com
 coolapk.com
+meituan.com
+maoyan.com
 
 # Nike / Adidas
 nike.cn

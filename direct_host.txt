@@ -1,7 +1,9 @@
 # Apple
 apple.cn
+apple.com
 apple.com.cn
 icloud.com.cn
+icloud.com
 
 # Steam
 steamcontent.com

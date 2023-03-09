@@ -12,16 +12,6 @@ dns.google
 xn--ngstr-lra8j.com
 cupronickel.goog
 
-# Apple
-captive.apple.com
-developer.apple.com
-testflight.apple.com
-sandbox.itunes.apple.com
-news-client.apple.com
-news-events.apple.com
-news-edge.apple.com
-gateway.icloud.com
-
 # Github
 github-production-release-asset-2e65be.s3.amazonaws.com
 github.com

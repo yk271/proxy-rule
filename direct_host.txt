@@ -45,143 +45,37 @@ wscont2.apps.microsoft.com
 xb.dlservice.microsoft.com
 
 # Tencent
-qq.com
 qq.com.cn
 qpic.cn
-tencent-cloud.net
-weixin.com
-wechat.org
-wechat.com
-tenpay.com
-moneydata.hk
-wechatpay.com.hk
-servicewechat.com
 gtimg.cn
-gtimg.com
 qlogo.cn
-iot-tencent.com
-wechatos.net
-wechatify.net
-wechatapp.com
-weixinbridge.com
-webank.com
 
 # Alibaba
 tb.cn
-taobao.com
-tmall.com
-alipay.com
 alipay.com.cn
-alipay.net
-alipay.hk
-alipay-eco.com
-alipaymo.com
-aliapp.org
-alipayobjects.com
-alibaba-inc.com
-aliapp.com
-alicdn.com
-antfortune.com
-alicloudccp.com
-aliyundrive.com
-fliggy.com
-taopiaopiao.com
-1688.com
 mybank.cn
-ele.me
-koubei.com
-tbcache.com
-etao.com
 damai.cn
-tmall.hk
-kaola.com
-miaostreet.com
-hemamax.com
 hemashare.cn
 
 # Bytedance
-bytedance.com
-bytetos.com
-byteimg.com
 bytecdn.cn
-bytescm.com
-amemv.com
-pstatp.com
-snssdk.com
 wtturl.cn
-zijieapi.com
-zijiecdn.com
-zijiecdn.net
 zjbyte.cn
-zjcdn.com
-ecombdapi.com
-ecombdstatic.com
-douyin.com
-douyincdn.com
-douyinliving.com
-douyinpic.com
-douyinstatic.com
-douyinvod.com
-douyinec.com
-toutiao.com
-toutiaoapi.com
-toutiaocdn.com
-toutiaocloud.com
-toutiaocloud.net
-toutiaohao.com
-toutiaohao.net
 toutiaoimg.cn
-toutiaoimg.com
-toutiaoimg.net
-toutiaopage.com
-toutiaostatic.com
-toutiaovod.com
-ixigua.com
-ixiguavideo.com
-ixgvideo.com
-bdxiguaimg.com
-bdxiguastatic.com
 feishu.cn
-feishucdn.com
-huoshan.com
-huoshanstatic.com
-huoshanzhibo.com
-ctobsnssdk.com
-juliangyinqing.com
-oceanengine.com
-volcengine.com
 
 # Xiaomi
-mi.com
-mi-img.com
+mi.cn
 mifile.cn
-miui.com
-miwifi.com
 mioffice.cn
-miot-spec.org
 xiaomi.cn
-xiaomi.com
-xiaomi.net
-xiaomiyoupin.com
 
 # China other
-163.com
-jd.com
-jd.hk
-360buyimg.com
 sinaimg.cn
-suning.com
 douyucdn.cn
 douyucdn2.cn
 moutai519.com.cn
 fengkongcloud.cn
-dewu.com
-xiaohongshu.com
-pinduoduo.com
-yangkeduo.com
-coolapk.com
-meituan.com
-maoyan.com
 
 # Nike / Adidas
 nike.cn
@@ -191,28 +85,7 @@ nikestore.com.cn
 adidas.com
 adidas.com.cn
 
-# Overseas shopping
-www.amazon.cn
-www.amazon.com
-www.amazon.co.jp
-bestbuy.com
-ebay.com
-walmart.com
-
-# Oracle
-oracle.com
-oraclecloud.com
-oracleinfinity.io
-cybersource.com
-
 # Finance
-cmbchina.com
-cmschina.com
-pingan.cn
-pingan.com
-pingan.com.cn
-citics.com
-ecitic.com
 hsbc.com.cn
 wise.com
 

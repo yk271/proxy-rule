@@ -15,7 +15,6 @@ st.dl.pinyuncloud.com
 steampipe.steamcontent.tnkjmec.com
 steampowered.com.8686c.com
 steamstatic.com.8686c.com
-xz.pphimalayanrt.com
 epicgames-download1-1251447533.file.myqcloud.com
 
 # Microsoft

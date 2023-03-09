@@ -62,10 +62,6 @@ nike.com.cn
 nikestore.com.cn
 adidas.com.cn
 
-# Finance
-hsbc.com.cn
-wise.com
-
 # Other
 speedtest.net
 dyndns.com

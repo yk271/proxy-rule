@@ -76,6 +76,7 @@ douyucdn.cn
 douyucdn2.cn
 moutai519.com.cn
 fengkongcloud.cn
+itdog.cn
 
 # Nike / Adidas
 nike.cn

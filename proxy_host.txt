@@ -1,6 +1,3 @@
-# Microsoft
-bing.com
-
 # Google
 googleapis.cn
 googleapis.com
@@ -21,10 +18,7 @@ githubassets.com
 githubusercontent.com
 
 # Other
+bing.com
 sspanel.net
 v2ex.com
-cloudflare.com
-hcaptcha.com
-hostloc.com
-jsdelivr.net
 c.mi.com

@@ -77,13 +77,9 @@ douyucdn2.cn
 moutai519.com.cn
 fengkongcloud.cn
 itdog.cn
-
-# Nike / Adidas
 nike.cn
-nike.com
 nike.com.cn
 nikestore.com.cn
-adidas.com
 adidas.com.cn
 
 # Finance

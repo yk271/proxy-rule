@@ -4,6 +4,21 @@ apple.com
 apple.com.cn
 icloud.com.cn
 
+# Steam
+steamcontent.com
+steamchina.com
+xz.pphimalayanrt.com
+dl.steam.clngaa.com
+dl.steam.ksyna.com
+st.dl.bscstorage.net
+st.dl.eccdnx.com
+st.dl.pinyuncloud.com
+steampipe.steamcontent.tnkjmec.com
+steampowered.com.8686c.com
+steamstatic.com.8686c.com
+xz.pphimalayanrt.com
+epicgames-download1-1251447533.file.myqcloud.com
+
 # Microsoft
 dl.delivery.mp.microsoft.com
 download.windowsupdate.com
@@ -29,21 +44,6 @@ wl.dlservice.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 xb.dlservice.microsoft.com
-
-# Steam
-steamcontent.com
-steamchina.com
-xz.pphimalayanrt.com
-dl.steam.clngaa.com
-dl.steam.ksyna.com
-st.dl.bscstorage.net
-st.dl.eccdnx.com
-st.dl.pinyuncloud.com
-steampipe.steamcontent.tnkjmec.com
-steampowered.com.8686c.com
-steamstatic.com.8686c.com
-xz.pphimalayanrt.com
-epicgames-download1-1251447533.file.myqcloud.com
 
 # Tencent
 qq.com

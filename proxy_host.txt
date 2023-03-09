@@ -1,21 +1,5 @@
 # Microsoft
 bing.com
-arc.msn.com
-data.msn.com
-aria.microsoft.com
-data.microsoft.com
-go.microsoft.com
-edge.microsoft.com
-microsoftedgewelcome.microsoft.com
-microsoftedge.microsoft.com
-target.microsoft.com
-activity.windows.com
-cdp.microsoft.com
-licensing.mp.microsoft.com
-answers.microsoft.com
-support.microsoft.com
-teams.microsoft.com
-update.microsoft.com
 
 # Google
 googleapis.cn

@@ -9,6 +9,9 @@ dns.google
 xn--ngstr-lra8j.com
 cupronickel.goog
 
+# Microsoft
+edge.microsoft.com
+
 # Github
 github-production-release-asset-2e65be.s3.amazonaws.com
 github.com

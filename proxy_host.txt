@@ -10,6 +10,7 @@ xn--ngstr-lra8j.com
 cupronickel.goog
 
 # Microsoft
+bing.com
 edge.microsoft.com
 
 # Github
@@ -21,7 +22,6 @@ githubassets.com
 githubusercontent.com
 
 # Other
-bing.com
 sspanel.net
 v2ex.com
 c.mi.com

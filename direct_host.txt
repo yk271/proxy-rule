@@ -50,6 +50,27 @@ mifile.cn
 mioffice.cn
 xiaomi.cn
 
+# Finance
+bochk.com
+citi.com
+citibank.com
+citibank.com.cn
+citibank.com.hk
+citibank.com.sg
+cmbwinglungbank.com
+dbs.com
+dbs.com.cn
+dbs.com.sg
+hsbc.com
+hsbc.com.cn
+hsbc.com.hk
+hsbc.com.tw
+hsbc.com.sg
+hsbc.com.au
+livibank.com
+sc.com
+za.group
+
 # China other
 sinaimg.cn
 douyucdn.cn

@@ -12,7 +12,7 @@ cupronickel.goog
 # Microsoft
 bing.com
 edge.microsoft.com
-nav-edge.smartscreen.microsoft.com
+smartscreen.microsoft.com
 
 # Github
 github-production-release-asset-2e65be.s3.amazonaws.com

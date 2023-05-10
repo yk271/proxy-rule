@@ -1,3 +1,6 @@
+# Apple
+captive.apple.com
+
 # Google
 googleapis.cn
 googleapis.com

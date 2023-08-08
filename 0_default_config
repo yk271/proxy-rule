@@ -71,11 +71,7 @@ config global_app
 	option chinadns_ng '/usr/bin/chinadns-ng'
 
 config global_subscribe
-	option filter_keyword_mode '1'
-	list filter_discard_list '过期时间'
-	list filter_discard_list '剩余流量'
-	list filter_discard_list 'QQ群'
-	list filter_discard_list '官网'
+	option filter_keyword_mode '0'
 
 config auto_switch
 	option enable '0'

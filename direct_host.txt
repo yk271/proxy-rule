@@ -61,6 +61,7 @@ nike.cn
 nike.com.cn
 nikestore.com.cn
 adidas.com.cn
+gov.cn
 
 # Other
 speedtest.net

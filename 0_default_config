@@ -38,6 +38,8 @@ config global_forwarding
 	option use_nft '0'
 	option tcp_proxy_way 'redirect'
 	option ipv6_tproxy '0'
+	
+config global_xray
 	option sniffing '1'
 	option route_only '0'
 
@@ -72,13 +74,6 @@ config global_app
 
 config global_subscribe
 	option filter_keyword_mode '0'
-
-config auto_switch
-	option enable '0'
-	option testing_time '1'
-	option connect_timeout '3'
-	option retry_num '3'
-	option shunt_logic '1'
 
 config nodes 'myshunt'
 	option remarks '分流总节点'

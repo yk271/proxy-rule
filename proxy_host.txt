@@ -14,6 +14,7 @@ cupronickel.goog
 
 # Microsoft
 bing.com
+msn.com
 edge.microsoft.com
 smartscreen.microsoft.com
 

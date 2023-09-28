@@ -44,7 +44,7 @@ config global_xray
 	option route_only '0'
 	
 config global_singbox
-	option sniff_override_destination '1'
+	option sniff_override_destination '0'
 	option geoip_path '/usr/share/singbox/geoip.db'
 	option geoip_url 'https://github.com/SagerNet/sing-geoip/releases/latest/download/geoip.db'
 	option geosite_path '/usr/share/singbox/geosite.db'
@@ -81,6 +81,7 @@ config global_app
 
 config global_subscribe
 	option filter_keyword_mode '0'
+	option ss_aead_type 'shadowsocks-rust'
 
 config nodes 'myshunt'
 	option remarks '分流总节点'

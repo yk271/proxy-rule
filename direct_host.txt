@@ -100,7 +100,6 @@ paob.com.hk
 sc.com
 uob.com.sg
 welab.bank
-wise.com
 za.group
 
 # Other

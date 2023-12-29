@@ -65,6 +65,8 @@ gov.cn
 
 # Finance
 airstarbank.com
+alipay.hk
+alipayhk.com
 antbank.hk
 bochk.com
 ccb.com

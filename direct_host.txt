@@ -63,6 +63,36 @@ nikestore.com.cn
 adidas.com.cn
 gov.cn
 
+# finance
+airstarbank.com
+antbank.hk
+bochk.com
+ccb.com
+citibank.com.hk
+cmbwinglungbank.com
+cncbinternational.com
+dbs.com.cn
+dbs.com.hk
+dbs.com.sg
+hangseng.com
+hkbea.com
+hsbc.co.uk
+hsbc.com
+hsbc.com.au
+hsbc.com.cn
+hsbc.com.hk
+hsbc.com.sg
+hsbc.com.tw
+ncb.com.hk
+ncbchina.cn
+icbcasia.com
+livibank.com
+ocbc.com
+ocbc.com.hk
+sc.com
+uob.com.sg
+za.group
+
 # Other
 speedtest.net
 dyndns.com

@@ -105,3 +105,4 @@ za.group
 # Other
 speedtest.net
 dyndns.com
+location.services.mozilla.com

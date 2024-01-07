@@ -155,6 +155,13 @@ config shunt_rules 'ProxyGame'
 domain:store.steampowered.com
 '
 
-config shunt_rules 'Netflix'
-	option remarks 'Netflix'
-	option domain_list 'geosite:netflix'
+config shunt_rules 'OpenAI'
+	option remarks 'OpenAI'
+	option domain_list 'geosite:openai'
+
+config shunt_rules 'StreamingMedia'
+	option remarks 'StreamingMedia'
+	option domain_list 'geosite:netflix
+geosite:disney
+geosite:spotify
+'

@@ -90,6 +90,7 @@ config nodes 'myshunt'
 	option protocol '_shunt'
 	option DirectGame 'nil'
 	option ProxyGame 'nil'
+	option BT '_direct'
 	option OpenAI 'nil'
 	option StreamingMedia 'nil'
 	option default_node 'nil'
@@ -152,6 +153,10 @@ config shunt_rules 'ProxyGame'
 	option remarks 'ProxyGame'
 	option domain_list 'geosite:category-games
 domain:store.steampowered.com'
+
+config shunt_rules 'BT'
+	option remarks 'BT'
+	option protocol 'bittorrent'
 
 config shunt_rules 'OpenAI'
 	option remarks 'OpenAI'

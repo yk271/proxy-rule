@@ -167,4 +167,6 @@ config shunt_rules 'StreamingMedia'
 	option domain_list 'geosite:netflix
 geosite:disney
 geosite:primevideo
+geosite:hbo
+geosite:hulu
 geosite:spotify'

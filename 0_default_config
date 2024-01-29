@@ -162,6 +162,7 @@ config shunt_rules 'OpenAI'
 	option remarks 'OpenAI'
 	option domain_list 'geosite:openai
 bard.google.com
+bing.com
 copilot.microsoft.com'
 
 config shunt_rules 'StreamingMedia'

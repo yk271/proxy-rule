@@ -76,6 +76,7 @@ cncbinternational.com
 dbs.com.cn
 dbs.com.hk
 dbs.com.sg
+eastwestbank.com
 fubonbank.com.hk
 fusionbank.com
 hangseng.com
@@ -101,6 +102,13 @@ sc.com
 uob.com.sg
 welab.bank
 za.group
+
+#DoT/DoH
+dns.alidns.com
+doh.pub
+dot.pub
+doh.360.cn
+dot.360.cn
 
 # Other
 speedtest.net

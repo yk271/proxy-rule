@@ -13,6 +13,7 @@ cupronickel.goog
 bing.com
 msn.com
 copilot.microsoft.com
+designer.microsoft.com
 edge.microsoft.com
 smartscreen.microsoft.com
 

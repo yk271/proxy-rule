@@ -163,10 +163,10 @@ config shunt_rules 'OpenAI'
 	option remarks 'OpenAI'
 	option domain_list 'geosite:openai
 geosite:bing
+copilot.microsoft.com
+designer.microsoft.com
 bard.google.com
-gemini.google.com
-services.bingapis.com
-copilot.microsoft.com'
+gemini.google.com'
 
 config shunt_rules 'StreamingMedia'
 	option remarks 'StreamingMedia'

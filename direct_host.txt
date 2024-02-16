@@ -115,3 +115,4 @@ speedtest.net
 dyndns.com
 location.services.mozilla.com
 hduprc.sbs
+flowercloud.xyz

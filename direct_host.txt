@@ -111,6 +111,7 @@ doh.360.cn
 dot.360.cn
 
 # Other
+speedtest.net
 dyndns.com
 location.services.mozilla.com
 hduprc.sbs

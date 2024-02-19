@@ -7,16 +7,15 @@ icloud.com.cn
 
 # Steam
 steamcontent.com
-steamchina.com
-xz.pphimalayanrt.com
 dl.steam.clngaa.com
 dl.steam.ksyna.com
 st.dl.bscstorage.net
 st.dl.eccdnx.com
 st.dl.pinyuncloud.com
-steampipe.steamcontent.tnkjmec.com
-steampowered.com.8686c.com
-steamstatic.com.8686c.com
+cdn.mileweb.cs.steampowered.com.8686c.com
+cdn-ws.content.steamchina.com
+cdn-qc.content.steamchina.com
+cdn-ali.content.steamchina.com
 epicgames-download1-1251447533.file.myqcloud.com
 
 # Microsoft

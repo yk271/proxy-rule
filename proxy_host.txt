@@ -3,9 +3,7 @@ googleapis.cn
 googleapis.com
 google.com.tw
 google.com.hk
-google.com.sg
 gstatic.com
-dns.google
 xn--ngstr-lra8j.com
 cupronickel.goog
 
@@ -18,12 +16,9 @@ edge.microsoft.com
 smartscreen.microsoft.com
 
 # Github
-github-production-release-asset-2e65be.s3.amazonaws.com
 github.com
-github.io
-githubapp.com
-githubassets.com
-githubusercontent.com
+github.global.ssl.fastly.net
+assets-cdn.github.com
 
 # Other
 sspanel.net

@@ -86,7 +86,7 @@ config global_subscribe
 
 config nodes 'myshunt'
 	option remarks '分流总节点'
-	option type 'sing-box'
+	option type 'Xray'
 	option protocol '_shunt'
 	option DirectGame 'nil'
 	option ProxyGame 'nil'
@@ -94,6 +94,7 @@ config nodes 'myshunt'
 	option OpenAI 'nil'
 	option StreamingMedia 'nil'
 	option default_node 'nil'
+	option domainStrategy 'IPOnDemand'
 
 config shunt_rules 'DirectGame'
 	option remarks 'DirectGame'

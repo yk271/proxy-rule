@@ -165,7 +165,8 @@ geosite:bing
 domain:copilot.microsoft.com
 domain:designer.microsoft.com
 domain:bard.google.com
-domain:gemini.google.com'
+domain:gemini.google.com
+domain:generativelanguage.googleapis.com'
 
 config shunt_rules 'StreamingMedia'
 	option remarks 'StreamingMedia'

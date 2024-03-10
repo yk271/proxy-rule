@@ -165,6 +165,7 @@ config shunt_rules 'BT'
 config shunt_rules 'OpenAI'
 	option remarks 'OpenAI'
 	option domain_list 'geosite:openai
+geosite:anthropic
 geosite:bing
 domain:copilot.microsoft.com
 domain:designer.microsoft.com

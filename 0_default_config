@@ -169,6 +169,7 @@ geosite:anthropic
 geosite:bing
 domain:copilot.microsoft.com
 domain:designer.microsoft.com
+domain:aistudio.google.com
 domain:bard.google.com
 domain:gemini.google.com
 domain:generativelanguage.googleapis.com'

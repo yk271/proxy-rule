@@ -15,12 +15,7 @@ designer.microsoft.com
 edge.microsoft.com
 smartscreen.microsoft.com
 
-# Github
-github.com
-github.global.ssl.fastly.net
-assets-cdn.github.com
-
 # Other
-sspanel.net
-v2ex.com
+engage.cloudflareclient.com
+github.com
 c.mi.com

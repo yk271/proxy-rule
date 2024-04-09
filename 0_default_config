@@ -170,9 +170,11 @@ geosite:bing
 domain:copilot.microsoft.com
 domain:designer.microsoft.com
 domain:aistudio.google.com
-domain:bard.google.com
+domain:ai.google.dev
 domain:gemini.google.com
-domain:generativelanguage.googleapis.com'
+domain:generativelanguage.googleapis.com
+domain:makersuite.google.com
+domain:alkalimakersuite-pa.clients6.google.com'
 
 config shunt_rules 'StreamingMedia'
 	option remarks 'StreamingMedia'

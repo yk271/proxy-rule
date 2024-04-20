@@ -97,7 +97,7 @@ config nodes 'myshunt'
 	option DirectGame 'nil'
 	option ProxyGame 'nil'
 	option BT '_direct'
-	option OpenAI 'nil'
+	option AIGC 'nil'
 	option StreamingMedia 'nil'
 	option default_node 'nil'
 	option domainStrategy 'IPOnDemand'
@@ -164,8 +164,8 @@ config shunt_rules 'BT'
 	option remarks 'BT'
 	option protocol 'bittorrent'
 
-config shunt_rules 'OpenAI'
-	option remarks 'OpenAI'
+config shunt_rules 'AIGC'
+	option remarks 'AIGC'
 	option domain_list 'geosite:openai
 geosite:anthropic
 geosite:bing
@@ -176,6 +176,7 @@ domain:ai.google.dev
 domain:gemini.google.com
 domain:generativelanguage.googleapis.com
 domain:makersuite.google.com
+domain:alkalicore-pa.clients6.google.com
 domain:alkalimakersuite-pa.clients6.google.com'
 
 config shunt_rules 'StreamingMedia'

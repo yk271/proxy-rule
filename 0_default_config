@@ -163,9 +163,7 @@ domain:store.steampowered.com'
 config shunt_rules 'AIGC'
 	option remarks 'AIGC'
 	option domain_list 'geosite:category-ai-chat-!cn
-geosite:bing
-domain:copilot.microsoft.com
-domain:designer.microsoft.com'
+geosite:bing'
 
 config shunt_rules 'Streaming'
 	option remarks 'Streaming'

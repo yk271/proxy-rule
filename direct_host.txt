@@ -114,6 +114,3 @@ dot.360.cn
 # Other
 dyndns.com
 location.services.mozilla.com
-hduprc.sbs
-kuromisubs.shop
-xmancdn.com

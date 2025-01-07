@@ -22,47 +22,7 @@ epicgames-download1-1251447533.file.myqcloud.com
 
 # Microsoft
 microsoft.com
-download.windowsupdate.com
-ctldl.windowsupdate.com
-
-# Tencent
-qq.com.cn
-qpic.cn
-gtimg.cn
-qlogo.cn
-
-# Alibaba
-tb.cn
-alipay.com.cn
-mybank.cn
-damai.cn
-hemashare.cn
-
-# Bytedance
-bytecdn.cn
-wtturl.cn
-zjbyte.cn
-toutiaoimg.cn
-feishu.cn
-
-# Xiaomi
-mi.cn
-mifile.cn
-mioffice.cn
-xiaomi.cn
-
-# China other
-sinaimg.cn
-douyucdn.cn
-douyucdn2.cn
-moutai519.com.cn
-fengkongcloud.cn
-itdog.cn
-nike.cn
-nike.com.cn
-nikestore.com.cn
-adidas.com.cn
-gov.cn
+windowsupdate.com
 
 # Finance
 airstarbank.com
@@ -108,6 +68,8 @@ za.group
 dns.alidns.com
 doh.pub
 dot.pub
+doh.360.cn
+dot.360.cn
 doh.360.cn
 dot.360.cn
 

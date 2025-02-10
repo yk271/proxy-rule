@@ -62,7 +62,7 @@ uob.com.sg
 welab.bank
 za.group
 
-#DoT/DoH
+# DoT/DoH
 dns.alidns.com
 doh.pub
 dot.pub

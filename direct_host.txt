@@ -1,5 +1,3 @@
-cn
-
 # Apple
 apple.cn
 apple.com
